@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.message-box::-webkit-scrollbar {
+  display: none;
+}
+
+.message-box{
+  scroll-behavior: smooth;
+}
+
+.hljs-keyword { color: #569cd6; } /* VS Code keyword color */
+.hljs-string { color: #ce9178; } /* String literals */
+.hljs-function { color: #dcdcaa; } /* Function names */
+.hljs-comment { color: #6a9955; font-style: italic; } /* Comments */
+.hljs-number { color: #b5cea8; } /* Numbers */
+
