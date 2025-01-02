@@ -1,9 +1,9 @@
-<h4 align="left">👩‍💻 About Project</h4>
+<h2 align="left">👩‍💻 About Project: </h2><p>This project demonstrates how AI and real-time communication can transform the way users interact, offering a practical, modern chat experience that's ready for deployment or further enhancement.</p>
 <div align="center">
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=256" width="256" height="auto" />
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YLSCaXf_sfZ3MRJg?embed=1&width=256" width="256" height="auto" />
 </div>
-<h1 align="center">Real-Time Chat Application with AI Assistance</h1>
+<h1 align="center">Real-Time Chat Application with AI Assistance - MERN Based</h1>
 <h2>Project Overview</h2>
 <p>This project is a cutting-edge real-time chat application that enables seamless communication between users while incorporating AI capabilities to enhance engagement. By integrating a robust AI model like Google Gemini, the application delivers intelligent responses to user queries, making it ideal for interactive and productive conversations.</p>
 <h2>Key Features</h2>
@@ -35,6 +35,11 @@
 2. Once authenticated, users can engage in real-time chat with other users.<br>
 3. The AI assistant listens to user queries and responds with accurate, context-driven replies (e.g., answers, calculations, suggestions).<br>
 4. The UI ensures a smooth, interactive experience with animations and error handling.<br>5. Clone the repository.<br>6. Configure your AI API key in the .env file for Google Gemini or your chosen AI model.<br>7. Run the application and start chatting!</p>
+<h2>Future Enhancements</h2>
+<li>Support for <b>group chats</b> and <b>media sharing</b>.</li>
+<li>Enhanced AI capabilities for more domain-specific queries (e.g., medical, legal, or technical).</li>
+<li>Multi-language support for a global audience.</li>
+<li>Advanced user analytics and reporting.</li>
 
 <h6 align="left">🛠 Language and tools used<br><br># ReactJS <br># Framer Motion <br># Tailwind CSS <br># CSS <br># JavaScript</h6>
 <div align="center">Connect to me here and visit my profile</div>
