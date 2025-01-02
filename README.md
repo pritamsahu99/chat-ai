@@ -1,15 +1,14 @@
-<h1 align="left">Hey 👋 Here Pritam Sahu<br>- Aspiring to be a Full Stact JAVA & Web Developer</h1>
-###
 <h4 align="left">👩‍💻 About Me</h4>
 ###
 <p align="left">- 🔭 I’m a student at present<br>- 👨🏻‍🎓 Pursuing BCA Degree *Currently in 3rd year 1st Sem<br>- 📚 I've Accomplished JAVA PROGRAMMING with DSA, Completed MERN Development<br>- ⚡ In my free time I practice my learnings and skills</p>
 ###
 <div align="center">
-<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMJs5Tzycb3-_I2A?e=ndZTSf" width="1917" height="888" />
+<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=256" width="256" height="auto" />
+<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YLSCaXf_sfZ3MRJg?embed=1&width=256" width="256" height="auto" />
 </div>
-
-<h4 align="cenetr">#File Sharing Site</h4>
-<p>This file-sharing project is a web-based application built using React.js with Tailwind CSS for styling. It offers a clean and user-friendly experience by allowing users to upload files.</p>
+<h2 align="cenetr">Real-Time Chat Application with AI Assistance</h2>
+<p>This file-sharing project is a web-based application built using React.js with Tailwind CSS for styling. It offers a clean and user-friendly experience by allowing users to upload files.
+</p>
 
 
   <h1>Key Features:</h1>
