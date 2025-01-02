@@ -1,9 +1,9 @@
 <h2 align="left">👩‍💻 About Project </h2><p>This project demonstrates how <b>AI and real-time communication can transform</b> the way users interact, offering a practical, modern chat experience that's ready for deployment or further enhancement.</p>
 <div align="center">
-<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=256" width="256" height="auto" />
+<h1 align="center">Real-Time Chat Application with AI Assistance - MERN Based</h1>
+<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=660" width="660" height="auto" />
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YLSCaXf_sfZ3MRJg?embed=1&width=256" width="256" height="auto" />
 </div>
-<h1 align="center">Real-Time Chat Application with AI Assistance - MERN Based</h1>
 <h2>Project Overview</h2>
 <p>This project is a cutting-edge real-time chat application that enables seamless communication between users while incorporating AI capabilities to enhance engagement. By integrating a robust AI model like Google Gemini, the application delivers intelligent responses to user queries, making it ideal for interactive and productive conversations.</p>
 <h2>Key Features</h2>
