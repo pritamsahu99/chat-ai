@@ -1,5 +1,5 @@
 # Ignore environment files in backend and frontend
 backend/.env
-frontend/.env
+chat-ai_frontend/.env
 # Ignore node_modules directory
 node_modules/
