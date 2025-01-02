@@ -1,6 +1,6 @@
-<h2 align="left">👩‍💻 About Project: </h2><p>This project demonstrates how <b>AI and real-time communication can transform</b> the way users interact, offering a practical, modern chat experience that's ready for deployment or further enhancement.</p>
+<h2 align="left">👩‍💻 About Project </h2><p>This project demonstrates how <b>AI and real-time communication can transform</b> the way users interact, offering a practical, modern chat experience that's ready for deployment or further enhancement.</p>
 <div align="center">
-<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=256" width="256" height="auto" />
+<img src="[https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=256](https://dsm01pap007files.storage.live.com/y4mkQ4PrYgaGhi38eQ7o_1jiHt_iBhYAb7YGF6McsHTHlGBpbIaP14OxgJK_4iXr5cQ-k-dLMXf2xEn_yrUnXct2DgSDYwl8dAuqcv_ZD4i1ZPM6U8VnRu7VZZWlY2IJ9JlMFaU74uRmdOqS6aerZI-saJGAYB0VyEcq9q9VzKLnw4z9-tKbCOcVFWl6TH6bWMD9B0-f_n2_wjQ9fH4cXsSbHztSdkFaw4sy2K_KUBHli8?encodeFailures=1&width=1515&height=824)" width="256" height="auto" />
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YLSCaXf_sfZ3MRJg?embed=1&width=256" width="256" height="auto" />
 </div>
 <h1 align="center">Real-Time Chat Application with AI Assistance - MERN Based</h1>
