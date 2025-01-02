@@ -10,7 +10,7 @@
 
 ###
 <div align="center">
-<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=1917&height=888" width="auto" height="300" />
+<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=1917&height=888" width="1917" height="888" />
 </div>
 
 <h4 align="cenetr">#File Sharing Site</h4>
