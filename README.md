@@ -1,14 +1,11 @@
 <h4 align="left">👩‍💻 About Me</h4>
-###
 <p align="left">- 🔭 I’m a student at present<br>- 👨🏻‍🎓 Pursuing BCA Degree *Currently in 3rd year 1st Sem<br>- 📚 I've Accomplished JAVA PROGRAMMING with DSA, Completed MERN Development<br>- ⚡ In my free time I practice my learnings and skills</p>
-###
 <div align="center">
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=256" width="256" height="auto" />
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YLSCaXf_sfZ3MRJg?embed=1&width=256" width="256" height="auto" />
 </div>
-<h2 align="cenetr">Real-Time Chat Application with AI Assistance</h2>
-<p>This file-sharing project is a web-based application built using React.js with Tailwind CSS for styling. It offers a clean and user-friendly experience by allowing users to upload files.
-</p>
+<h2 align="center">Real-Time Chat Application with AI Assistance</h2>
+<p><h3>Project Overview:</h3> This project is a cutting-edge real-time chat application that enables seamless communication between users while incorporating AI capabilities to enhance engagement. By integrating a robust AI model like Google Gemini, the application delivers intelligent responses to user queries, making it ideal for interactive and productive conversations.</p>
 
 
   <h1>Key Features:</h1>
