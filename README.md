@@ -1,7 +1,7 @@
 <h2 align="left">👩‍💻 About Project </h2><p>This project demonstrates how <b>AI and real-time communication can transform</b> the way users interact, offering a practical, modern chat experience that's ready for deployment or further enhancement.</p>
 <div align="center">
 <h1 align="center">Real-Time Chat Application with AI Assistance - MERN Based</h1>
-<img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=660" width="660" height="auto" />
+<img src="https://drive.google.com/file/d/1FKOmUqrsPaHL6zkTeMT5ewrU-sE2sdj2/view?usp=drive_link" width="660" height="auto" />
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YLSCaXf_sfZ3MRJg?embed=1&width=256" width="256" height="auto" />
 </div>
 <h2>Project Overview</h2>
