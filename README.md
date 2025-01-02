@@ -7,10 +7,32 @@
 <h1 align="center">Real-Time Chat Application with AI Assistance</h1>
 <h2>Project Overview:</h2>
 <p>This project is a cutting-edge real-time chat application that enables seamless communication between users while incorporating AI capabilities to enhance engagement. By integrating a robust AI model like Google Gemini, the application delivers intelligent responses to user queries, making it ideal for interactive and productive conversations.</p>
-<h2>Key Features:</h2>
-<h3>Real-Time Messaging</h3>
+<h2>Key Features</h2>
+<h4>Real-Time Messaging</h4>
 <li>Instant, reliable, and efficient messaging between users with no delays.</li>
 <li>Implements WebSocket or similar technology for live, bidirectional communication.</li>
+<h4>AI-Driven Assistance</h4>
+<li>Integrates AI (e.g., Google Gemini) to process user inputs and deliver context-aware responses.</li>
+<li>Offers intelligent suggestions, calculations, and meaningful conversations within the chat interface.</li>
+<h4>Interactive UI/UX</h4>
+<li>Floating labels for input fields for an intuitive experience.</li>
+<li>Responsive design using Tailwind CSS to ensure compatibility across devices.</li>
+<li>Error handling and validation: Real-time validation for email and password inputs.</li>
+<h4>Secure Authentication</h4>
+<li>Implements secure user login functionality with form validation and state management.</li>
+<li>Dynamic button states ensure no invalid inputs are submitted.</li>
+<h4>Custom Hover Animations</h4>
+<li>Features visually appealing hover effects for buttons, enhancing the user experience.</li>
+<h4>Scalable and Modular Codebase</h4>
+<li>Built with ReactJS, adhering to a component-driven architecture for maintainability and scalability.</li>
+<li>All logic is modular, reusable, and ready for integration into larger systems.</li>
+<h2>Tech Stack</h2>
+<li><b>Frontend:</b> ReactJS, Tailwind CSS</li>
+<li><b>Backend:</b> Node.js (or appropriate server for WebSocket/REST API communication)</li>
+<li><b>Database:</b> Firebase (or another real-time DB)</li>
+<li><b>AI Integration:</b> Google Gemini APIs for conversational AI</li>
+
+
 <h6 align="left">🛠 Language and tools used<br><br># ReactJS <br># Framer Motion <br># Tailwind CSS <br># CSS <br># JavaScript</h6>
 <div align="center">Connect to me here and visit my profile</div>
 <div align="center">
