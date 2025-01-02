@@ -1,4 +1,4 @@
-<h2 align="left">👩‍💻 About Project: </h2><p>This project demonstrates how AI and real-time communication can transform the way users interact, offering a practical, modern chat experience that's ready for deployment or further enhancement.</p>
+<h2 align="left">👩‍💻 About Project: </h2><p>This project demonstrates how <b>AI and real-time communication can transform</b> the way users interact, offering a practical, modern chat experience that's ready for deployment or further enhancement.</p>
 <div align="center">
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YMEYVNV6BmqjMsIw?embed=1&width=256" width="256" height="auto" />
 <img src="https://1drv.ms/i/s!Apiqrdhr4hZpg4YLSCaXf_sfZ3MRJg?embed=1&width=256" width="256" height="auto" />
@@ -41,7 +41,7 @@
 <li>Multi-language support for a global audience.</li>
 <li>Advanced user analytics and reporting.</li>
 
-<h6 align="left">🛠 Language and tools used<br><br># ReactJS <br># Framer Motion <br># Tailwind CSS <br># CSS <br># JavaScript</h6>
+<h6 align="left">🛠 Language and tools used<br><br># ReactJS<br># Tailwind CSS <br># CSS <br># JavaScript<br># MongoDB<br># Express<br># NodeJs <br># Firebase</h6>
 <div align="center">Connect to me here and visit my profile</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/pritam-sahu-532183268/" target="_blank">
